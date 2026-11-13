@@ -70,17 +70,17 @@ Configure a secure virtualization environment using Oracle VM VirtualBox and ins
 
 \### 1. VirtualBox Manager
 
-!\[VirtualBox](./screenshots/Lab_setup1.jpg)
+![VirtualBox](./screenshots/Lab_setup1.jpg)
 
 
 
 \### 2. Lab Setup View
 
-!\[Lab Setup](./screenshots/Lab_setup2.jpg)
+![Lab Setup](./screenshots/Lab_setup2.jpg)
 
 
 
 \### 3. Kali VirtualBox Settings \& Terminal
 
-!\[Kali Settings](./screenshots/Lab_setup3.jpg)
+![Kali Settings](./screenshots/Lab_setup3.jpg)
 
